@@ -41,6 +41,4 @@ The last table we utilized was the ‘vine_table’ so that we could filter revi
 ## Summary
 The Vine program did not seem to have a positive return on investment, at least in the apparel category. The Vine program averaged a 45% five star review while reviews outside of the Vine program averaged a 52% five star review. One major caveat is that the number of reviews outside of the Vine program was 45,388 compared with 33 total Vine reviews. These numbers are difficult to compare due to the large variance between the two totals. It is unknown if the Vine reviews contributed to people trying the product but it seems unlikely due to the total number of products purchased outside of the program versus those from the Vine program. It would seem in this category incentivizing reviews did not have a significant impact on sales or desire. This would imply that Vine reviews do not hold a significant impact on customer sentiment.
 
-![Screen Shot 2021-09-02 at 1 10 18 PM](https://user-images.githubusercontent.com/83378141/131887983-807ac118-b426-4db4-af18-209d85d2d80b.png)
-
 
