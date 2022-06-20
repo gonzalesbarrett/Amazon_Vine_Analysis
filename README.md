@@ -13,7 +13,7 @@ For this project we used ‘Amazon Review dataset’ and focused on ‘US Appare
 Step one was to extract the dataset from AWS via PySpark which we then transformed and loaded into AWS once again. Originally downloaded the file as a Jupyter notebook file but was modified in Google Colab so that we could so PySpark. The dataframe was then divided into four smaller dataframes for analysis. The dataframes were loaded into AWS RDS via PySpark then to PostgreSQL. The outputs were verified after being loaded in.
 ![customer_df]( https://github.com/gonzalesbarrett/Amazon_Vine_Analysis/blob/main/Images/Customers_df.png)
 ![products_df]( https://github.com/gonzalesbarrett/Amazon_Vine_Analysis/blob/main/Images/Products_df.png)
-![reviews_df]( https://github.com/gonzalesbarrett/Amazon_Vine_Analysis/blob/main/Images/Review_df.png
+![reviews_df]( https://github.com/gonzalesbarrett/Amazon_Vine_Analysis/blob/main/Images/Review_df.png)
 ![vine_df]( https://github.com/gonzalesbarrett/Amazon_Vine_Analysis/blob/main/Images/Vine_df.png)
 
 
